@@ -1,0 +1,5 @@
+Things about architecture and design patterns
+https://martinfowler.com/
+
+Things about development
+https://www.journaldev.com/
